@@ -1,4 +1,4 @@
-# lm-dw-v2
+# lm-dw
 
 Code and files for the paper "Can language models automate data wrangling?"
 
