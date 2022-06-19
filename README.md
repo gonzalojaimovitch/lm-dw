@@ -1,4 +1,4 @@
-# lm-dw
+# Can language models automate data wrangling?
 
 Code and files for the paper "Can language models automate data wrangling?"
 
